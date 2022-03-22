@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-css_html_minify-master.flake = false;
+  inputs.src-css_html_minify-master.ref   = "refs/heads/master";
   inputs.src-css_html_minify-master.owner = "juancarlospaco";
-  inputs.src-css_html_minify-master.ref   = "master";
   inputs.src-css_html_minify-master.repo  = "nim-css-html-minify";
   inputs.src-css_html_minify-master.type  = "github";
   
