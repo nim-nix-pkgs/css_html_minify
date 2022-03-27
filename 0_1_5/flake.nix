@@ -11,6 +11,7 @@
   inputs.src-css_html_minify-0_1_5.ref   = "refs/tags/0.1.5";
   inputs.src-css_html_minify-0_1_5.owner = "juancarlospaco";
   inputs.src-css_html_minify-0_1_5.repo  = "nim-css-html-minify";
+  inputs.src-css_html_minify-0_1_5.dir   = "";
   inputs.src-css_html_minify-0_1_5.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
