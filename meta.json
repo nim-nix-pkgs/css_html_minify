@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/juancarlospaco/nim-css-html-minify",
   "refs": [
-    "fatal: unable to access 'https://github.com/juancarlospaco/nim-css-html-minify/': SSL connection timeout",
+    "fatal: unable to access 'https://github.com/juancarlospaco/nim-css-html-minify/': Could not resolve host: github.com",
     ""
   ],
   "heads": []
